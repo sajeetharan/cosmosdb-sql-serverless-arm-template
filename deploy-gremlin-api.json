@@ -82,7 +82,10 @@
               "enableFreeTier": false,
               "capabilities": [
                 {
-                  "name": "EnableServerless"
+                  "name": "EnableServerless"                
+                },
+                {
+                   "name": "EnableGremlin"        
                 }
               ],
               "databaseAccountOfferType": "Standard",
